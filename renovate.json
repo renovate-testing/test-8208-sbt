@@ -1,3 +1,5 @@
 {
-  "rangeStrategy": "pin"
+  "sbt": {  
+    "rangeStrategy": "pin"
+  }
 }
