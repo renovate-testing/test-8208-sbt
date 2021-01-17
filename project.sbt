@@ -1,2 +1,2 @@
-libraryDependencies += "org.apache.lucene" % "lucene-core" % "latest.integration"
-libraryDependencies += "org.apache.lucene" % "lucene-queryparser" % "8.4.0"
+libraryDependencies += "org.apache.lucene" % "lucene-core" % "latest.release"
+libraryDependencies += "org.apache.lucene" % "lucene-queryparser" % "latest.integration"
