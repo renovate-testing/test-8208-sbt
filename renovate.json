@@ -1,1 +1,8 @@
-{}
+{
+  "packageRules": [
+    {
+      "packageNames": ["org.apache.lucene:lucene-queryparser"],
+      "rangeStrategy": "pin"
+    }
+  ]
+}
