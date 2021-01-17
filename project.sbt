@@ -1,1 +1,2 @@
-addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "latest.integration")
+libraryDependencies += "org.apache.lucene" % "lucene-core" % "8.4.0"
+libraryDependencies += "org.apache.lucene" % "lucene-queryparser" % "8.4.0"
