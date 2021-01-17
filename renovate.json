@@ -1,7 +1,10 @@
 {
   "packageRules": [
     {
-      "packageNames": ["org.apache.lucene:lucene-queryparser"],
+      "packageNames": [
+        "org.apache.lucene:lucene-core",
+        "org.apache.lucene:lucene-queryparser"
+      ],
       "rangeStrategy": "pin"
     }
   ]
