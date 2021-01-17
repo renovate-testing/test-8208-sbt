@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "packageNames": ["org.apache.lucene:lucene-queryparser"],
-      "enabled": false
+      "rangeStrategy": "pin"
     }
   ]
 }
