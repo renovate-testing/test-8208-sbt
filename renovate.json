@@ -1,5 +1,5 @@
 {
-  "maven" {
+  "maven": {
     "enabled": true
   },
   "sbt": {
