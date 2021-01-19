@@ -1,4 +1,9 @@
 {
-  "enabledManagers": ["maven", "sbt"],
+  "maven" {
+    "enabled": true
+  },
+  "sbt": {
+    "enabled": true
+  }
   "rangeStrategy": "pin"
 }
