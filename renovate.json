@@ -4,6 +4,6 @@
   },
   "sbt": {
     "enabled": true
-  }
+  },
   "rangeStrategy": "pin"
 }
