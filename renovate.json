@@ -1,8 +1,8 @@
 {
-  "maven": {
-    "enabled": false
-  },
-  "sbt": {
-    "enabled": true
-  }
+  "packageRules": [
+    {
+      "packageNames": ["org.apache.lucene:lucene-queryparser"],
+      "rangeStrategy": "pin"
+    }
+  ]
 }
