@@ -1,9 +1,9 @@
 {
   "maven": {
-    "enabled": false
+    "enabled": true
   },
   "sbt": {
-    "enabled": true
+    "enabled": false
   },
   "rangeStrategy": "pin"
 }
